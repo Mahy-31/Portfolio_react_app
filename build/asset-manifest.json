@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Portfolio_react_app/static/css/main.92386dd8.css",
+    "main.js": "/Portfolio_react_app/static/js/main.5567067b.js",
+    "static/js/453.a721cc15.chunk.js": "/Portfolio_react_app/static/js/453.a721cc15.chunk.js",
+    "static/media/landp.png": "/Portfolio_react_app/static/media/landp.2ea197c1098b8301bae0.png",
+    "static/media/port.png": "/Portfolio_react_app/static/media/port.cedbbb54dd4dde91901c.png",
+    "static/media/quiz.png": "/Portfolio_react_app/static/media/quiz.b9dfd971462f1583a6b2.png",
+    "static/media/about.jpg": "/Portfolio_react_app/static/media/about.a9e745ec39cad4a14b29.jpg",
+    "static/media/homebg.jpg": "/Portfolio_react_app/static/media/homebg.76a619aa93a7168db3e1.jpg",
+    "static/media/calc.png": "/Portfolio_react_app/static/media/calc.3e31fe511b114661b086.png",
+    "static/media/contactbg.jpg": "/Portfolio_react_app/static/media/contactbg.749da72b113591a3a3f7.jpg",
+    "static/media/projbg.jpg": "/Portfolio_react_app/static/media/projbg.dcfc628d4fb5df2bb430.jpg",
+    "static/media/sdelogo.jpg": "/Portfolio_react_app/static/media/sdelogo.da3e30b295062a51ecaa.jpg",
+    "index.html": "/Portfolio_react_app/index.html",
+    "main.92386dd8.css.map": "/Portfolio_react_app/static/css/main.92386dd8.css.map",
+    "main.5567067b.js.map": "/Portfolio_react_app/static/js/main.5567067b.js.map",
+    "453.a721cc15.chunk.js.map": "/Portfolio_react_app/static/js/453.a721cc15.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92386dd8.css",
+    "static/js/main.5567067b.js"
+  ]
+}
