@@ -62,11 +62,11 @@
     transition: 0.3s ease-in;
   }
   
-  @media only screen and (max-width: 650px) {
+  @media only screen and (max-width: 750px) {
     .home {
       justify-content: center;
       align-items: center;
-      height:550px;
+      height:500px;
     }  
     .headerContainer {
       margin-left: 25%;
