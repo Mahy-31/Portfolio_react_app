@@ -96,7 +96,7 @@ form button:hover {
     .contact {
         justify-content: center;
         align-items: center;
-        height:500px;
+        height:auto;
         width:100%;
     }
     .contact .infos {

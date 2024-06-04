@@ -67,7 +67,7 @@
       width: 100%;
       justify-content: center;
       align-items: center;
-      height:550px;
+      height:auto;
     }  
     .headerContainer {
       margin-left: 25%;
