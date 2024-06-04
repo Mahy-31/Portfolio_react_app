@@ -83,6 +83,10 @@
   }
   
   @media only screen and (max-width: 600px) {
+    .navbar {
+      width: 480px;
+      height: 80px;
+    }
     .navbar .rightSide a {
       display: none;
     }

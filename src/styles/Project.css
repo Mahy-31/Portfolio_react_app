@@ -70,14 +70,15 @@
   
   @media only screen and (max-width: 480px) {
     .projects {
-      width: 100%;
-      height: auto;
+      width: 480px;
+      height: 1750px;
     }
     .ProjectsList {
       grid-template-columns: 1fr;
     }
     .projItem {
-      width: 95%;
+      width: 400px;
       height: 380px;
+      justify-content: center;
     }
   }
