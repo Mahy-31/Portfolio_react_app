@@ -61,6 +61,9 @@
     .projectsList {
       grid-template-columns: 1fr;
     }
+    .projects .header {
+      margin: 4%;
+    }
     .projItem {
       width: 600px;
       height: 380px;
@@ -77,6 +80,8 @@
     }
     .ProjectsList {
       grid-template-columns: 1fr;
+      justify-content: center;
+      align-items: center;
     }
     .projItem {
       width: 400px;
