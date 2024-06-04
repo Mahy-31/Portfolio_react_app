@@ -22,6 +22,8 @@
 @media only screen and (max-width: 480px) {
   .footer {
     width: 480px;
+    justify-content: center;
+      align-items: center;
     height: 80px;
   }
   .socialMedia svg {

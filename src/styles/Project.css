@@ -71,6 +71,8 @@
   @media only screen and (max-width: 480px) {
     .projects {
       width: 480px;
+      justify-content: center;
+      align-items: center;
       height: 1750px;
     }
     .ProjectsList {

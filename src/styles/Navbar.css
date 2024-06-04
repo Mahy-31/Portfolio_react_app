@@ -85,6 +85,8 @@
   @media only screen and (max-width: 600px) {
     .navbar {
       width: 480px;
+      justify-content: center;
+      align-items: center;
       height: 80px;
     }
     .navbar .rightSide a {

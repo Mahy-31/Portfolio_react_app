@@ -32,10 +32,14 @@ p{
 @media only screen and (max-width: 480px) {
     .about {
         width: 480px;
+        justify-content: center;
+        align-items: center;
         height: 1750px;
     }
     .content {
-        width:98%;
+        width:80%;
+        justify-content: center;
+        align-items: center;
         height: 1650px;
     }
     .content .myself {
@@ -45,7 +49,7 @@ p{
     .content .skills {
         display: grid;
         grid-template-columns: repeat(1, 1fr);
-        height: 550px;
+        height: 600px;
     }
     .work {
         width:380px;

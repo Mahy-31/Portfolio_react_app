@@ -96,15 +96,15 @@ form button:hover {
     .contact {
         justify-content: center;
         align-items: center;
-        height: 600px;
+        height: 750px;
         width:480px;
     }
     .contact .infos {
         margin-left: 8%;
         border-radius: 10px;
         padding: 10px;
-        height: 500px;
-        width: 440px;
+        height: 550px;
+        width: 80%;
         display: flex;
         justify-content: center;
         align-items: center;
