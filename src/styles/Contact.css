@@ -92,11 +92,12 @@ form button:hover {
     color: rgb(255, 255, 255);
     cursor: pointer;
 }
-@media only screen and (max-width: 650px) {
+@media only screen and (max-width: 480px) {
     .contact {
         justify-content: center;
         align-items: center;
-        height:550px;
+        height:500px;
+        width:100%;
     }
     .contact .infos {
         margin-left: 8%;
@@ -119,7 +120,7 @@ form button:hover {
       
     form input {
         height: 30px;
-        width: 280px;
+        width: 250px;
         border: none;
         border-bottom: 1px solid #ffffff;
         color: rgb(255, 255, 255);
@@ -131,7 +132,7 @@ form button:hover {
     form textarea {
         margin-top: 15px;
         height: 70px;
-        width: 280px;
+        width: 250px;
         border: none;
         border-bottom: 1px solid #ffffff;
         color: rgb(255, 255, 255);
