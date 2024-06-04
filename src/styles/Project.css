@@ -79,6 +79,7 @@
       height: 1750px;
     }
     .ProjectsList {
+      margin-left: -3%;
       grid-template-columns: 1fr;
       width: 80%;
       justify-content: center;
